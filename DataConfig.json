@@ -1,0 +1,29 @@
+{
+  "site": {
+    "name": "YujieTest_NoKey_SIT_Company",
+    "devices": [
+      {
+        "serialNumber": "BAFA0031",
+        "ip": "192.168.1.209",
+        "type": "G7-100",
+        "id": "108614"
+      },
+      {
+        "serialNumber": "KBHK003O",
+        "ip": "192.168.1.210",
+        "type": "G6-300",
+        "id": "73376"
+      }
+    ]
+  },
+  "job": {
+    "fileDownload": [
+      {
+        "downloadName": "FileDownloadAutoTest",
+        "fileName": "G6-300_Red_PKG",
+        "packageName": "G6-300_SIT_Red_00.11.0001.B57DC.pkg",
+        "downloadPath": "/home/invenco/var/cache/icsagent/downloads/safe"
+      }
+    ]
+  }
+}
